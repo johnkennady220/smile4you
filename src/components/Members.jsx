@@ -20,7 +20,7 @@ const Members = () => {
         <DishesCard img={member1} title="Mohammed Ali Pookoya Thanghal" text="chairman "/>
         <DishesCard img={member2} title="Subha M " text="General Secretary & Treasurer  "/>
         <DishesCard img={member3} title="P.K jose" text=" Secretary"/>
-        <DishesCard img={member7} title="Faisel Baderi " text="President "/>
+        <DishesCard img={member7} title="Faisal Baderi " text="President "/>
         <DishesCard img={member4} title="Sanjeed" text="Join Secretary "/>
         <DishesCard img={member5} title="Sithara M Ali " text="Trustee "/>
         <DishesCard img={member6} title="Mujeeb Rehman" text="Trustee "/>
